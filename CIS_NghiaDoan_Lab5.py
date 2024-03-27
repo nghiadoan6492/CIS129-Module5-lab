@@ -1,3 +1,6 @@
+# Nghia Doan
+# CIS129-Module5-Lab
+
 # Declare variables
 totalbottles = 0 # Total bottles for the week
 counter = 1 # Control the loop
